@@ -1,12 +1,12 @@
 # Site settings
 title: 好一个废柴的博客
 SEOTitle: 进来听故事叭
-header-img: img/post-bg-desk.jpg
+header-img: /img/about-someone.jpg
 email: 690803841@qq.com
 description: 好一个废柴的博客
 keyword: wait and see.
 url: "https://adachi2098.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "haha"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/adachi2098/adachi2098.github.io.git" # you code repository
 
 # Sidebar settings
